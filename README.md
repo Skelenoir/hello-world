@@ -1,3 +1,2 @@
 # hello-world
-Ceci est une description.
-Et ceci est une modification.
+Et ceci est une modification. Paf.
