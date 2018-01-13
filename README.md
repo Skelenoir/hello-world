@@ -1,2 +1,2 @@
 # hello-world
-Et ceci est une modification. Paf.
+Et ceci est une modification.
